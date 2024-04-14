@@ -17,11 +17,11 @@ To run TextUtils locally on your machine, follow these steps:
 1. Clone the repository to your local machine:
 
  ```bash
-git clone https://github.com/adityasingh151/TextUtils.git
+git clone https://github.com/adityasingh151/text_utils.git
 ```
 2. Navigate to the project directory:
  ```bash
-cd TextUtils
+cd text_utils
 ```
 3. Install the required dependencies using npm:
  ```bash
